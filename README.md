@@ -12,3 +12,21 @@ Summary of CV Problems in Interview
 ## Q3.说下你了解的深度学习网络
 
 ## Q4.说下bp的过程
+
+## Q5.深度学习的激活函数
+
+## Q6.深度学习的优化函数
+
+## Q7.说下牛顿法（上面的优化函数我没提）
+
+## Q8.BN，BN和普通的Normalization的区别
+
+## Q9.过拟合的相关问题
+
+## Q10.svm
+
+## Q11.反卷积具体怎么实现的
+
+## Q12.为什么dropout能减少过拟合
+
+## Q13.rcnn, fast rcnn,fater rcnn,yolo,问了我具体的yolo的那个anchor,反正好多具体的东西
