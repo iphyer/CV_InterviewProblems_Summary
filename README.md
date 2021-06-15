@@ -30,3 +30,11 @@ Summary of CV Problems in Interview
 ## Q12.为什么dropout能减少过拟合
 
 ## Q13.rcnn, fast rcnn,fater rcnn,yolo,问了我具体的yolo的那个anchor,反正好多具体的东西
+
+## Q14.常见 Loss 的形式
+
+## Q15. 常见网络架构的名字和特点
+
+## Q16. 有什么生成模型你知道的。
+
+## Q17 1x1 卷积的作用。
