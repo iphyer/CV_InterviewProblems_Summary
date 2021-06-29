@@ -37,4 +37,8 @@ Summary of CV Problems in Interview
 
 ## Q16. 有什么生成模型你知道的。
 
-## Q17 1x1 卷积的作用。
+## Q17 1x1 卷积的作用
+
+第三轮是ML breadth，从clustering， SVM， PCA blabla一直考到Bayesian AB testing，random forest etc，基本上我简历上提到的都考了。. From 1point 3acres bbs
+第四轮是hiring manager面的ML case，也主要是针对我以前做的project细问，如何改进，如何更personalization，还问了问我有没有sprint planning的经验
+第五轮是ML depth，面试官让我挑一个我自认为比较擅长的领域（classification，regression， causal impact之类的都行），然后细问，比如loss function啊，什么情况下该选什么。最后还问了一下word2vec具体怎么做的
