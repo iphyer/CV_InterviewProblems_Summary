@@ -10,6 +10,10 @@
 
 [4. What is Confusion Matrix?](https://github.com/iphyer/MLE_Interview_Preparation/blob/main/ML_Basic.md#4-what-is-confusion-matrix)
 
+[5. What is Drop-out? Any difference for Drop-out in Training and Predicting?]()
+
+[6. What is Batch Norm? Any difference for Batch Norm in Training and Predicting?]()
+
 ### 1. What is softmax function? 
 
 ### 2. What is sigmoid function? 
@@ -17,3 +21,7 @@
 ### 3. What is sensitivity and specificity? 
 
 ### 4. What is Confusion Matrix? 
+
+### 5. What is Drop-out? Any difference for Drop-out in Training and Predicting? 
+
+### 6. What is Batch Norm? Any difference for Batch Norm in Training and Predicting? 
