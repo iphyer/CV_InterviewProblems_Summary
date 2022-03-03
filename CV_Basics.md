@@ -67,5 +67,5 @@ edge主要是接收到的光线强度的不连续而产生的，具体的，造�
 ## 18. Pytorch 如何做卷积计算？
 
 
-
+![Pytorch_Conv_Img](https://github.com/iphyer/MLE_Interview_Preparation/blob/main/Resources/Pics/pytorch_conv.jpeg)
 
