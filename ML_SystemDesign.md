@@ -6,7 +6,7 @@
 
 [2. Design a classification for Tinder about whether a user will like the recommanded user suggestions or not based only on user profile images](https://github.com/iphyer/MLE_Interview_Preparation/blob/main/ML_SystemDesign.md#2-design-a-classification-for-tinder-about-whether-a-user-will-like-the-recommanded-user-suggestions-or-not-based-only-on-user-profile-images)
 
-[3. Design a model that predict Heart Attack Risk of a patient within the next 5 years ](https://github.com/iphyer/MLE_Interview_Preparation/blob/main/ML_SystemDesign.md#3-design-a-model-that-should-predict-whether-or-not-a-patient-will-experience-a-heart-attack-within-the-next-5-years)
+[3. Design a model that predicts Heart Attack Risk of a patient within the next 5 years ](https://github.com/iphyer/MLE_Interview_Preparation/blob/main/ML_SystemDesign.md#3-design-a-model-that-should-predict-whether-or-not-a-patient-will-experience-a-heart-attack-within-the-next-5-years)
 
 
 ### 1. Design a classification for Uber about whether a user will need a trip or not.
@@ -39,9 +39,9 @@ Binary Classification
 (1) Pull other data like hobby / post code/ address/ personal data
 (2) Train CNN to be able to differentiate twins, there shall be some thing different e.g. dress/ hair style etc.
 
-### 3. Design a model that predict Heart Attack Risk of a patient within the next 5 years
+### 3. Design a model that predicts Heart Attack Risk of a patient within the next 5 years
 
-Your are tasked to Design a model that predict Heart Attack Risk of a patient within the next 5 years.
+Your are tasked to design a model that predict Heart Attack Risk of a patient within the next 5 years.
 
 Input: 
 * images of eyes ~ 100k images
@@ -52,8 +52,6 @@ Input:
 Prediction Target
 * The heart attach Probabilty of a patient in the next 5 years
 * days to the next heart attach
-
-
 
 **Follow Up**
 
