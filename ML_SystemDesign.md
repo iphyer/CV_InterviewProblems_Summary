@@ -4,9 +4,9 @@
 
 [1. Design a classification for Uber about whether a user will need a trip or not.](https://github.com/iphyer/MLE_Interview_Preparation/blob/main/ML_SystemDesign.md#1-design-a-classification-for-uber-about-whether-a-user-will-need-a-trip-or-not-)
 
-[2. Design a classification for Tinder about whether a user will like the recommanded user suggestions or not based only on user profile images]()
+[2. Design a classification for Tinder about whether a user will like the recommanded user suggestions or not based only on user profile images](https://github.com/iphyer/MLE_Interview_Preparation/blob/main/ML_SystemDesign.md#2-design-a-classification-for-tinder-about-whether-a-user-will-like-the-recommanded-user-suggestions-or-not-based-only-on-user-profile-images)
 
-[3. Design a model that should predict whether or not a patient will experience a heart attack within the next 5 years ]()
+[3. Design a model that should predict whether or not a patient will experience a heart attack within the next 5 years ](https://github.com/iphyer/MLE_Interview_Preparation/blob/main/ML_SystemDesign.md#3-design-a-model-that-should-predict-whether-or-not-a-patient-will-experience-a-heart-attack-within-the-next-5-years)
 
 
 ### 1. Design a classification for Uber about whether a user will need a trip or not.
