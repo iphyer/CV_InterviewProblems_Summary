@@ -69,3 +69,7 @@ edge主要是接收到的光线强度的不连续而产生的，具体的，造�
 
 ![Pytorch_Conv_Img](https://github.com/iphyer/MLE_Interview_Preparation/blob/main/Resources/Pics/pytorch_conv.jpeg)
 
+## 19. Feature Pyramid Network (FPN) 如何提高小物体检测？
+
+1. 多尺度视角帮助得到更多的信息，比如小尺寸的物体
+2. Conv 操作会对信息作抽象，损失细节，所以 FPN 可以得到更细节信息。
