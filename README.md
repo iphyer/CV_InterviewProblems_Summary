@@ -5,9 +5,9 @@
 ### SDE
 
 * 1.Coding
-      * [1.1 Coding Questions](https://github.com/iphyer/Interview_PreparationAND_Notes/blob/main/Coding_Questions.md)
+	* [1.1 Coding Questions](https://github.com/iphyer/Interview_PreparationAND_Notes/blob/main/Coding_Questions.md)
 * 2.System Design
-       * [2.1 System Design Basics](https://github.com/iphyer/Interview_PreparationAND_Notes/blob/main/SystemDesign_Basics.md)
+	* [2.1 System Design Basics](https://github.com/iphyer/Interview_PreparationAND_Notes/blob/main/SystemDesign_Basics.md)
 
 
 ### MLE
